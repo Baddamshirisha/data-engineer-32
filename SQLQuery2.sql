@@ -22,3 +22,4 @@ select*from tab_a inner join tab_b on tab_a.table_a = tab_b.table_b;
 
 
 
+
